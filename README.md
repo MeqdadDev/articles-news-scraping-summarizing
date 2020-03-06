@@ -1,13 +1,13 @@
 # Articles News - Scraping and Summarizing
 
-![Banner](images\banner.png)
+![Repo Banner](images/banner.png)
 _By: Meqdad Darweesh_
 
 In this [code](ArticlesNewsScrapAndSummarize.py), I've used the next Python Libraries:
 
 ### nltk
 
-![Banner](images\nltk.width-500.png)
+![Banner](images/nltk.width-500.png)
 
 _Natural Language Toolkit_, visit: https://www.nltk.org/
 
